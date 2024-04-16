@@ -10,7 +10,7 @@
   - Address: Ho Chi Minh, Viet Nam
 
 # Education
-  **1th year student at @University of Information Technology (UIT) - VNU HCM**
+  **1st year student at @University of Information Technology (UIT) - VNU HCM**
   - Major: Computer Science 
 <!---
 thanhtam712/thanhtam712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
