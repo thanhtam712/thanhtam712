@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Thanh Tam. Welcome to my page :tulip: :four_leaf_clover:
 
 # Le Thi Thanh Tam
-   In there, I want to share some knowledge about AI/ML. I hope you like this.
+   In there, I want to share some knowledge about AI/ML. I hope you like that.
 
 
 # Contact information
