@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Thanh Tam. Welcome to my page :tulip: :four_leaf_clover:
    I'm passionate about Artificial Intelligence (AI) and Machine Learning (ML). On this page, I share my projects, insights, and knowledge about AI/ML. I hope you find something interesting and useful here!
 
-# Contact information
+# 📬 Contact information
   - Email: lethithanhtam071205@gmail.com
   - Phone: 0845 657 ***
   - Address: Ho Chi Minh, Viet Nam
 
-# Education
+# 🎓 Education
    **graduated at @Quoc-Hoc Hue High School for the Gifted**
    - Major: Mathematics
    **graduated at @University of Information Technology (UIT) - VNU HCM**
