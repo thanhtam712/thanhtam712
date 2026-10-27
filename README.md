@@ -7,9 +7,10 @@
   - Address: Ho Chi Minh, Viet Nam
 
 # 🎓 Education
-   **graduated at @Quoc-Hoc Hue High School for the Gifted**
+   **Graduated at @Quoc-Hoc Hue High School for the Gifted**
    - Major: Mathematics
-   **graduated at @University of Information Technology (UIT) - VNU HCM**
+     
+   **Graduated at @University of Information Technology (UIT) - VNU HCM**
    - Major: Computer Science 
 <!---
 thanhtam712/thanhtam712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
